@@ -54,7 +54,6 @@ This dashboard was designed to:
 ### Interactive Functionality
 
 * Dynamic Slicers and Filters
-* Drill-through Navigation
 * Cross-filtering Visuals
 * Interactive KPI Monitoring
 * Multi-page Dashboard Navigation
