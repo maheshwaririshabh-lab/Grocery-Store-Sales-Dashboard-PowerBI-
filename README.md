@@ -116,25 +116,11 @@ The dashboard utilizes DAX to calculate key business metrics, including:
 
 ## Key Business Insights
 
-### Sales Performance
-
 * Generated over **1.2M in total sales** across all store formats.
-* Supermarkets contributed the highest share of overall revenue.
-
-### Product Analysis
-
-* Fruits & Vegetables and Snack Foods emerged as the leading sales categories.
-* Product category analysis helped identify revenue-driving segments.
-
-### Geographic Insights
-
 * Significant sales contribution observed from France and Australia.
-* Regional comparison highlighted market performance differences.
-
-### Store Performance
-
-* Tier-based city analysis revealed varying sales and order patterns.
-* Store-type comparison enabled identification of top-performing retail formats.
+* Supermarkets contributed the highest share of overall revenue.
+* Fruits & Vegetables and Snack Foods emerged as the leading sales categories.
+* Tier-3 cities show highest sales performance
 
 ---
 
