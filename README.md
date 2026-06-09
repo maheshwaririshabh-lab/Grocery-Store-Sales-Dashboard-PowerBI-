@@ -168,14 +168,6 @@ Grocery-Store-Sales-Dashboard-PowerBI/
 └── Project_Summary.pdf
 ```
 
-## Future Enhancements
-
-* Forecasting and Trend Analysis
-* Customer Segmentation
-* Profitability Analysis
-* Inventory Analytics
-* Advanced DAX Optimization
-
 ---
 
 ## Author
